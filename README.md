@@ -8,12 +8,12 @@
 <p align="center">
   <a href="https://rpg-maker-plugins.itch.io/"><b>itch.io storefront</b></a> &nbsp;·&nbsp;
   <a href="YOUR-VIDEO-URL"><b>2-minute showreel</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><b>[LinkedIn](https://www.linkedin.com/in/drbrandonwood/)</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/drbrandonwood/"><b>[LinkedIn]</b></a> &nbsp;·&nbsp;
   <a href="https://bsky.app/profile/rpgmakerplugins.bsky.social">Bluesky</a> &nbsp;·&nbsp;
   <a href="https://mastodon.social/@rpg_maker_plugins">Mastodon</a>
 </p>
 
-## Hi, I'm Dr. Brandon Wood
+## Hi, I'm Dr. Brandon Wood, DBA
 
 I design and ship tools for RPG Maker developers. Over the last year that has meant **70+ products** — plugins, procedural generators and asset packs — sold through a single storefront that now does **900+ downloads a month**.
 
@@ -70,4 +70,4 @@ The paid plugins are closed-source, but these are public and MIT-licensed so you
 ## Let's talk
 
 Open to plugin commissions, tooling contracts and engine-integration work.
-**Email:** YOUR-EMAIL · **LinkedIn:** [YOUR-NAME](https://www.linkedin.com/in/YOUR-LINKEDIN/) · **Store:** [rpg-maker-plugins.itch.io](https://rpg-maker-plugins.itch.io/)
+**Email:** YOUR-EMAIL · **LinkedIn:** [Dr. Brandon Wood, DBA](https://www.linkedin.com/in/drbrandonwood/) · **Store:** [rpg-maker-plugins.itch.io](https://rpg-maker-plugins.itch.io/)
