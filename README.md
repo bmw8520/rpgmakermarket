@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://rpg-maker-plugins.itch.io/"><b>itch.io storefront</b></a> &nbsp;·&nbsp;
-  <a href="YOUR-VIDEO-URL"><b>2-minute showreel</b></a> &nbsp;·&nbsp;
+  <a href="[YOUR-VIDEO-URL](https://vimeo.com/1235268119)"><b>2-minute showreel</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/drbrandonwood/"><b>[LinkedIn]</b></a> &nbsp;·&nbsp;
   <a href="https://bsky.app/profile/rpgmakerplugins.bsky.social">Bluesky</a> &nbsp;·&nbsp;
   <a href="https://mastodon.social/@rpg_maker_plugins">Mastodon</a>
