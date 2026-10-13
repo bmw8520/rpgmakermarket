@@ -1,5 +1,5 @@
 <!-- Profile README. Lives in the repo named exactly like your GitHub username (bmw8520/bmw8520). -->
-<!-- Replace bmw8520, YOUR-NAME, and the video URL. Images live in assets/ in this same repo. -->
+<!-- Replace bmw8520, Dr. Brandon Wood, and the video URL. Images live in assets/ in this same repo. -->
 
 <p align="center">
   <a href="https://rpg-maker-plugins.itch.io/"><img src="github-profile-kit/assets/header.png" alt="RPG_Maker_Plugins — tools, generators and assets for RPG Maker MZ/MV" width="100%"></a>
@@ -8,12 +8,12 @@
 <p align="center">
   <a href="https://rpg-maker-plugins.itch.io/"><b>itch.io storefront</b></a> &nbsp;·&nbsp;
   <a href="YOUR-VIDEO-URL"><b>2-minute showreel</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><b>[LinkedIn](https://www.linkedin.com/in/drbrandonwood/)</b></a> &nbsp;·&nbsp;
   <a href="https://bsky.app/profile/rpgmakerplugins.bsky.social">Bluesky</a> &nbsp;·&nbsp;
   <a href="https://mastodon.social/@rpg_maker_plugins">Mastodon</a>
 </p>
 
-## Hi, I'm YOUR-NAME
+## Hi, I'm Dr. Brandon Wood
 
 I design and ship tools for RPG Maker developers. Over the last year that has meant **70+ products** — plugins, procedural generators and asset packs — sold through a single storefront that now does **900+ downloads a month**.
 
