@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://rpg-maker-plugins.itch.io/"><b>itch.io storefront</b></a> &nbsp;·&nbsp;
-  <a href="[YOUR-VIDEO-URL](https://vimeo.com/1235268119)"><b>2-minute showreel</b></a> &nbsp;·&nbsp;
+  <a href="[https://vimeo.com/1235268119]"><b>2-minute showreel</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/drbrandonwood/"><b>[LinkedIn]</b></a> &nbsp;·&nbsp;
   <a href="https://bsky.app/profile/rpgmakerplugins.bsky.social">Bluesky</a> &nbsp;·&nbsp;
   <a href="https://mastodon.social/@rpg_maker_plugins">Mastodon</a>
@@ -70,4 +70,4 @@ The paid plugins are closed-source, but these are public and MIT-licensed so you
 ## Let's talk
 
 Open to plugin commissions, tooling contracts and engine-integration work.
-**Email:** YOUR-EMAIL · **LinkedIn:** [Dr. Brandon Wood, DBA](https://www.linkedin.com/in/drbrandonwood/) · **Store:** [rpg-maker-plugins.itch.io](https://rpg-maker-plugins.itch.io/)
+**Email:** dr.brandon.wood8520@gmail.com · **LinkedIn:** [Dr. Brandon Wood, DBA](https://www.linkedin.com/in/drbrandonwood/) · **Store:** [rpg-maker-plugins.itch.io](https://rpg-maker-plugins.itch.io/)
