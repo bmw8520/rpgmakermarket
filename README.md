@@ -64,7 +64,7 @@ The paid plugins are closed-source, but these are public and MIT-licensed so you
 ## By the numbers
 
 - **70+** products on one storefront · **900+** downloads in the last 30 days
-- **114+** playable minigames · **21** SFX generators · **124+** hand-drawn battlers
+- **114+** playable minigames · **21** SFX generators · **124+** ai-drawn battlers
 - Every tool ships for **RPG Maker MZ**, most also for **MV**; everything is written to be VisuStella-friendly
 
 ## Let's talk
