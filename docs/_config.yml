@@ -1,0 +1,31 @@
+title: RPG Maker Plugins Blog
+description: Guides, tutorials and news for RPG Maker MZ developers — from the makers of 70+ plugins, generators and asset packs on itch.io.
+url: "https://bmw8520.github.io"
+baseurl: "/rpgmakermarket"
+
+theme: minima
+permalink: /blog/:title/
+paginate: 10
+
+author:
+  name: Dr. Brandon Wood
+
+minima:
+  social_links:
+    - { platform: itch, user_url: "https://rpg-maker-plugins.itch.io/" }
+
+header_pages:
+  - index.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Static files Jekyll should copy verbatim (no front matter needed)
+include:
+  - products.xml
+
+# Not part of the blog
+exclude:
+  - README-products-feed.md
