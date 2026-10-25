@@ -29,3 +29,6 @@ include:
 # Not part of the blog
 exclude:
   - README-products-feed.md
+ga4_id: G-XXXXXXXXXX          # the "blog" stream ID
+webmaster_verifications:
+  google: PASTE_LATER         # filled in at step 3
