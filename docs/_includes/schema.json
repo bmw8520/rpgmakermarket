@@ -1,0 +1,232 @@
+[
+  {
+    "@id": "https://rpg-maker-plugins.itch.io#profile",
+    "url": "https://rpg-maker-plugins.itch.io",
+    "name": "RPG_Maker_Plugins - itch.io",
+    "@type": "ProfilePage",
+    "about": {
+      "@id": "https://rpg-maker-plugins.itch.io#creator"
+    },
+    "sameAs": [
+      "https://mastodon.social/@rpg_maker_plugins",
+      "https://bsky.app/profile/rpgmakerplugins.bsky.social"
+    ],
+    "@context": "https://schema.org",
+    "headline": "RPG_Maker_Plugins",
+    "isPartOf": {
+      "@id": "https://rpg-maker-plugins.itch.io#website"
+    },
+    "publisher": {
+      "@id": "https://rpg-maker-plugins.itch.io#creator"
+    },
+    "inLanguage": "en",
+    "mainEntity": {
+      "@id": "https://rpg-maker-plugins.itch.io#creator"
+    },
+    "description": "MZ/MV plugins, assets, music generators and educational game-development tools for RPG Maker. Create consistent, multi-layered game worlds faster."
+  },
+  {
+    "@id": "https://rpg-maker-plugins.itch.io#website",
+    "url": "https://rpg-maker-plugins.itch.io",
+    "name": "RPG_Maker_Plugins",
+    "@type": "WebSite",
+    "@context": "https://schema.org",
+    "publisher": {
+      "@id": "https://rpg-maker-plugins.itch.io#creator"
+    },
+    "inLanguage": "en"
+  },
+  {
+    "@id": "https://rpg-maker-plugins.itch.io#creator",
+    "url": "https://rpg-maker-plugins.itch.io",
+    "name": "RPG_Maker_Plugins",
+    "@type": "Organization",
+    "sameAs": [
+      "https://mastodon.social/@rpg_maker_plugins",
+      "https://bsky.app/profile/rpgmakerplugins.bsky.social"
+    ],
+    "@context": "https://schema.org",
+    "knowsAbout": [
+      "RPG Maker MZ",
+      "RPG Maker MV",
+      "Game development",
+      "Game plugins",
+      "Digital game assets",
+      "Music generation",
+      "Educational games"
+    ],
+    "description": "Creator of RPG Maker MV and MZ plugins, assets, music generators, minigames and educational game-development resources."
+  },
+  {
+    "@id": "https://rpg-maker-plugins.itch.io#products",
+    "url": "https://rpg-maker-plugins.itch.io",
+    "name": "RPG Maker Plugins, Assets and Generators",
+    "@type": "ItemList",
+    "@context": "https://schema.org",
+    "description": "Digital plugins, assets, music generators and minigame packs for RPG Maker MV and MZ.",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "item": {
+          "@id": "https://rpg-maker-plugins.itch.io#freedom-road",
+          "name": "Freedom Road: Slavery & Abolition in North America (RPG Maker MZ)",
+          "@type": "Product",
+          "brand": {
+            "@id": "https://rpg-maker-plugins.itch.io#creator"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "1.39",
+            "availability": "https://schema.org/InStock",
+            "priceCurrency": "USD"
+          },
+          "category": "RPG Maker MZ educational game module",
+          "description": "An educational Underground Railroad journey featuring timeline and historical figure exhibits, plus a myth-versus-fact press game."
+        },
+        "@type": "ListItem",
+        "position": 1
+      },
+      {
+        "item": {
+          "@id": "https://rpg-maker-plugins.itch.io#east-india-company",
+          "name": "East India Company Trade Sim & History Module for RPG Maker MZ",
+          "@type": "Product",
+          "brand": {
+            "@id": "https://rpg-maker-plugins.itch.io#creator"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "1.39",
+            "availability": "https://schema.org/InStock",
+            "priceCurrency": "USD"
+          },
+          "category": "RPG Maker MZ historical game module",
+          "description": "A historical trade simulation combining a monsoon trade journey, sailing arcade gameplay, an exhibit covering 1600–1874 and an exam."
+        },
+        "@type": "ListItem",
+        "position": 2
+      },
+      {
+        "item": {
+          "@id": "https://rpg-maker-plugins.itch.io#insect-edutainment",
+          "name": "Insect Edutainment Minigames — Life Cycles, Pollinators & Orders for RPG Maker MZ",
+          "@type": "Product",
+          "brand": {
+            "@id": "https://rpg-maker-plugins.itch.io#creator"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "1.74",
+            "availability": "https://schema.org/InStock",
+            "priceCurrency": "USD"
+          },
+          "category": "RPG Maker MZ educational minigame pack",
+          "description": "A collection of insect-learning minigames covering life cycles, pollination and insect orders, with 18 insects included."
+        },
+        "@type": "ListItem",
+        "position": 3
+      },
+      {
+        "item": {
+          "@id": "https://rpg-maker-plugins.itch.io#bootlegging-minigames",
+          "name": "Bootlegging Minigames — Prohibition Arcade Pack for RPG Maker MZ",
+          "@type": "Product",
+          "brand": {
+            "@id": "https://rpg-maker-plugins.itch.io#creator"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "1.39",
+            "availability": "https://schema.org/InStock",
+            "priceCurrency": "USD"
+          },
+          "category": "RPG Maker MZ minigame plugin pack",
+          "description": "Three Prohibition-era arcade minigames involving a still, rum-running and managing a speakeasy door."
+        },
+        "@type": "ListItem",
+        "position": 4
+      },
+      {
+        "item": {
+          "@id": "https://rpg-maker-plugins.itch.io#travel-scenes",
+          "name": "Travel Scenes MZ — Animated Travel Windows for RPG Maker MZ",
+          "@type": "Product",
+          "brand": {
+            "@id": "https://rpg-maker-plugins.itch.io#creator"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "1.74",
+            "availability": "https://schema.org/InStock",
+            "priceCurrency": "USD"
+          },
+          "category": "RPG Maker MZ plugin",
+          "description": "A set of 26 animated travel scenes for Transfer Player, including portals, stairs, boats, elevators and trains."
+        },
+        "@type": "ListItem",
+        "position": 5
+      },
+      {
+        "item": {
+          "@id": "https://rpg-maker-plugins.itch.io#siren",
+          "name": "SIREN — Sirens, Alarms & Klaxons SFX Generator",
+          "@type": "Product",
+          "brand": {
+            "@id": "https://rpg-maker-plugins.itch.io#creator"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "1.39",
+            "availability": "https://schema.org/InStock",
+            "priceCurrency": "USD"
+          },
+          "category": "Sound effects generator",
+          "description": "A procedural sound-effects generator with 18 siren types, including tornado, air-raid, ambulance and mechanical fire sirens."
+        },
+        "@type": "ListItem",
+        "position": 6
+      },
+      {
+        "item": {
+          "@id": "https://rpg-maker-plugins.itch.io#aetherblade",
+          "name": "AETHERBLADE — VRMMO Epic BGM Generator",
+          "@type": "Product",
+          "brand": {
+            "@id": "https://rpg-maker-plugins.itch.io#creator"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "1.39",
+            "availability": "https://schema.org/InStock",
+            "priceCurrency": "USD"
+          },
+          "category": "Background music generator",
+          "description": "A music generator for sweeping anime-inspired MMO overtures, emotional strings and boss battles with loop-ready, royalty-free background music."
+        },
+        "@type": "ListItem",
+        "position": 7
+      },
+      {
+        "item": {
+          "@id": "https://rpg-maker-plugins.itch.io#hvac-core",
+          "name": "HVAC Core: Heating & Cooling Minigames for RPG Maker MZ",
+          "@type": "Product",
+          "brand": {
+            "@id": "https://rpg-maker-plugins.itch.io#creator"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "1.39",
+            "availability": "https://schema.org/InStock",
+            "priceCurrency": "USD"
+          },
+          "category": "RPG Maker MZ plugin",
+          "description": "A collection of heating and cooling themed minigames for RPG Maker MZ."
+        },
+        "@type": "ListItem",
+        "position": 8
+      }
+    ]
+  }
+]
