@@ -4,7 +4,7 @@
     <title>RPG Maker Plugins</title>
     <link>https://rpg-maker-plugins.itch.io/</link>
     <description>Plugins, tools and asset packs for RPG Maker MZ.</description>
-    <lastBuildDate>Sun, 25 Oct 2026 07:38:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:52:22 GMT</lastBuildDate>
     <item>
       <g:id>5012867</g:id>
       <title>46 Legendary Yokai Battlers - Collection - MZ/MV</title>
@@ -1399,6 +1399,21 @@
       <g:brand>RPG Maker Plugins</g:brand>
       <g:product_type>tool</g:product_type>
       <g:image_link>https://img.itch.zone/aW1nLzMwNDk0NDQxLnBuZw==/315x250%23c/CDxsUM.png</g:image_link>
+    </item>
+    <item>
+      <g:id>4819520</g:id>
+      <title>OllamaNPC — Dynamic AI NPC Dialogue (MZ) | In Development</title>
+      <g:title>OllamaNPC — Dynamic AI NPC Dialogue (MZ) | In Development</g:title>
+      <link>https://rpg-maker-plugins.itch.io/ollama-npc</link>
+      <g:link>https://rpg-maker-plugins.itch.io/ollama-npc</g:link>
+      <description>Give any RPG Maker MZ NPC free, offline, persona-driven AI conversations — powered by a local Ollama model.</description>
+      <g:description>Give any RPG Maker MZ NPC free, offline, persona-driven AI conversations — powered by a local Ollama model.</g:description>
+      <g:price>9.99 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>RPG Maker Plugins</g:brand>
+      <g:product_type>tool</g:product_type>
+      <g:image_link>https://img.itch.zone/aW1nLzI4NzQzOTUyLnBuZw==/315x250%23c/b9tAsm.png</g:image_link>
     </item>
     <item>
       <g:id>5001014</g:id>
