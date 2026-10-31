@@ -4,7 +4,7 @@
     <title>RPG Maker Plugins</title>
     <link>https://rpg-maker-plugins.itch.io/</link>
     <description>Plugins, tools and asset packs for RPG Maker MZ.</description>
-    <lastBuildDate>Fri, 30 Oct 2026 08:43:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:29:13 GMT</lastBuildDate>
     <item>
       <g:id>5012867</g:id>
       <title>46 Legendary Yokai Battlers - Collection - MZ/MV</title>
@@ -679,6 +679,21 @@
       <g:brand>RPG Maker Plugins</g:brand>
       <g:product_type>tool</g:product_type>
       <g:image_link>https://img.itch.zone/aW1nLzMxMjk0MDk1LnBuZw==/315x250%23c/6YAXcO.png</g:image_link>
+    </item>
+    <item>
+      <g:id>5262969</g:id>
+      <title>Do Your Playtests 100x More Efficiently | Auto-Playtest Bot &amp; Logging</title>
+      <g:title>Do Your Playtests 100x More Efficiently | Auto-Playtest Bot &amp; Logging</g:title>
+      <link>https://rpg-maker-plugins.itch.io/playtest-bot</link>
+      <g:link>https://rpg-maker-plugins.itch.io/playtest-bot</g:link>
+      <description>A bot that playtests your RPG Maker MZ game at up to 100x speed and hands you a fix-it report. Free / pay what you want.</description>
+      <g:description>A bot that playtests your RPG Maker MZ game at up to 100x speed and hands you a fix-it report. Free / pay what you want.</g:description>
+      <g:price>0.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>RPG Maker Plugins</g:brand>
+      <g:product_type>tool</g:product_type>
+      <g:image_link>https://img.itch.zone/aW1nLzMxNTY3Njg4LnBuZw==/315x250%23c/wlVRNl.png</g:image_link>
     </item>
     <item>
       <g:id>5154449</g:id>
