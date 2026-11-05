@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "latest": {
+    "LanMultiplayer": { "version": "2.0.0", "url": "https://rpg-maker-plugins.itch.io/" }
+  },
+  "promos": [
+    {
+      "title": "More RPG Maker MZ plugins",
+      "blurb": "Minigames, battle systems, tools and asset packs.",
+      "url": "https://rpg-maker-plugins.itch.io/",
+      "for": ["*"]
+    },
+    {
+      "title": "Free: Whitelabel Money Guide",
+      "blurb": "How to turn RPG Maker assets into side income.",
+      "url": "https://rpg-maker-plugins.itch.io/whitelabel-money-guide",
+      "for": ["*"]
+    },
+    {
+      "title": "Entire RPG Maker MZ Whitelabeled Bundle",
+      "blurb": "Plugins, BGM generators and asset packs you can resell.",
+      "url": "https://rpg-maker-plugins.itch.io/",
+      "for": ["*"]
+    },
+    {
+      "title": "Free: Loot Ledger, Bard's Quill, Playtest Grimoire",
+      "blurb": "Three free MZ plugins from the same store.",
+      "url": "https://rpg-maker-plugins.itch.io/",
+      "for": ["*"]
+    },
+    {
+      "title": "Community Plugin Jam",
+      "blurb": "Build a plugin, share it, get featured. AI-assisted entries welcome.",
+      "url": "https://itch.io/jam/community-plugin-jam",
+      "for": ["*"]
+    },
+    {
+      "title": "Casino Corner",
+      "blurb": "Casino minigames — perfect for LAN party nights.",
+      "url": "https://rpg-maker-plugins.itch.io/",
+      "for": ["LanMultiplayer"],
+      "active": false
+    },
+    {
+      "title": "Bowling Minigame",
+      "blurb": "Ten-pin bowling with a casual-sports look.",
+      "url": "https://rpg-maker-plugins.itch.io/",
+      "for": ["LanMultiplayer"],
+      "active": false
+    },
+    {
+      "title": "Brick Breaker Minigame",
+      "blurb": "Levels, bosses and a card-draft system.",
+      "url": "https://rpg-maker-plugins.itch.io/",
+      "for": ["LanMultiplayer"],
+      "active": false
+    },
+    {
+      "title": "Social Share MZ",
+      "blurb": "Photo Mode + post screenshots to Bluesky and Discord.",
+      "url": "https://rpg-maker-plugins.itch.io/",
+      "for": ["LanMultiplayer"],
+      "active": false
+    }
+  ]
+}
