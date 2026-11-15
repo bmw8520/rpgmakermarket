@@ -4,7 +4,7 @@
     <title>RPG Maker Plugins</title>
     <link>https://rpg-maker-plugins.itch.io/</link>
     <description>Plugins, tools and asset packs for RPG Maker MZ.</description>
-    <lastBuildDate>Sat, 14 Nov 2026 09:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 09:31:41 GMT</lastBuildDate>
     <item>
       <g:id>5012867</g:id>
       <title>46 Legendary Yokai Battlers - Collection - MZ/MV</title>
@@ -679,6 +679,21 @@
       <g:brand>RPG Maker Plugins</g:brand>
       <g:product_type>tool</g:product_type>
       <g:image_link>https://img.itch.zone/aW1nLzI5OTM5OTQ1LnBuZw==/315x250%23c/4dR1fl.png</g:image_link>
+    </item>
+    <item>
+      <g:id>5358561</g:id>
+      <title>Destructible Cities Plugin (ABS + MZ) — Every Building Can Fall</title>
+      <g:title>Destructible Cities Plugin (ABS + MZ) — Every Building Can Fall</g:title>
+      <link>https://rpg-maker-plugins.itch.io/destructible-city-mz</link>
+      <g:link>https://rpg-maker-plugins.itch.io/destructible-city-mz</g:link>
+      <description>Buildings crack, burn, topple and shatter into rubble. One plugin, MZ &amp; MV, no art needed.</description>
+      <g:description>Buildings crack, burn, topple and shatter into rubble. One plugin, MZ &amp; MV, no art needed.</g:description>
+      <g:price>8.99 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>RPG Maker Plugins</g:brand>
+      <g:product_type>tool</g:product_type>
+      <g:image_link>https://img.itch.zone/aW1nLzMyMjM5MzU5LnBuZw==/315x250%23c/DDsH97.png</g:image_link>
     </item>
     <item>
       <g:id>5079008</g:id>
@@ -1819,6 +1834,21 @@
       <g:brand>RPG Maker Plugins</g:brand>
       <g:product_type>tool</g:product_type>
       <g:image_link>https://img.itch.zone/aW1nLzMwODE3MTc0LnBuZw==/315x250%23c/SNEhQR.png</g:image_link>
+    </item>
+    <item>
+      <g:id>5358746</g:id>
+      <title>Project Doctor — Free Health Check for RPG Maker MZ</title>
+      <g:title>Project Doctor — Free Health Check for RPG Maker MZ</g:title>
+      <link>https://rpg-maker-plugins.itch.io/project-doctor</link>
+      <g:link>https://rpg-maker-plugins.itch.io/project-doctor</g:link>
+      <description>Find missing files, broken transfers, plugin-order mistakes &amp; soft-locks before your players do. Free / pay what you want.</description>
+      <g:description>Find missing files, broken transfers, plugin-order mistakes &amp; soft-locks before your players do. Free / pay what you want.</g:description>
+      <g:price>0.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>RPG Maker Plugins</g:brand>
+      <g:product_type>tool</g:product_type>
+      <g:image_link>https://img.itch.zone/aW1nLzMyMjM5NTEzLnBuZw==/315x250%23c/o1Hvx3.png</g:image_link>
     </item>
     <item>
       <g:id>5070393</g:id>
