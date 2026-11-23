@@ -4,7 +4,7 @@
     <title>RPG Maker Plugins</title>
     <link>https://rpg-maker-plugins.itch.io/</link>
     <description>Plugins, tools and asset packs for RPG Maker MZ.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 09:51:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 10:52:24 GMT</lastBuildDate>
     <item>
       <g:id>5413182</g:id>
       <title>"For The Booty" - Pirate RTS MZ [Game + Source Files]</title>
@@ -499,6 +499,21 @@
       <g:brand>RPG Maker Plugins</g:brand>
       <g:product_type>tool</g:product_type>
       <g:image_link>https://img.itch.zone/aW1nLzMwMTAwMjYzLnBuZw==/315x250%23c/eIUqm1.png</g:image_link>
+    </item>
+    <item>
+      <g:id>5426788</g:id>
+      <title>Cheat Code Menu MZ — Programmable Cheats for RPG Maker MZ</title>
+      <g:title>Cheat Code Menu MZ — Programmable Cheats for RPG Maker MZ</g:title>
+      <link>https://rpg-maker-plugins.itch.io/cheat-code-menu-mz</link>
+      <g:link>https://rpg-maker-plugins.itch.io/cheat-code-menu-mz</g:link>
+      <description>A programmable in-game cheat menu for RPG Maker MZ: 20 ready-made cheats, secret codes, button sequences, and your own. Free / pay what you want.</description>
+      <g:description>A programmable in-game cheat menu for RPG Maker MZ: 20 ready-made cheats, secret codes, button sequences, and your own. Free / pay what you want.</g:description>
+      <g:price>0.00 USD</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>RPG Maker Plugins</g:brand>
+      <g:product_type>tool</g:product_type>
+      <g:image_link>https://img.itch.zone/aW1nLzMyNjk2MDUyLnBuZw==/315x250%23c/VMTHch.png</g:image_link>
     </item>
     <item>
       <g:id>5240506</g:id>
